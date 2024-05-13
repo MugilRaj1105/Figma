@@ -37,7 +37,7 @@ Figma
 
 ## CODE:
 code1:
-
+```
 <div class="AndroidSmall1" style="width: 360px; height: 640px; position: relative; background: #D9D9D9">
   <img class="PurpleYellowNeonModernMusicEventInstagramStory2" style="width: 368px; height: 654px; left: 0px; top: 0px; position: absolute; border-radius: 7px" src="https://via.placeholder.com/368x654" />
   <div class="Rectangle1" style="width: 168px; height: 40px; left: 100px; top: 526px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset"></div>
@@ -45,7 +45,7 @@ code1:
   <div class="Register" style="width: 166px; height: 41px; left: 102px; top: 526px; position: absolute; color: #FF0000; font-size: 32px; font-family: Inter; font-weight: 700; word-wrap: break-word">REGISTER</div>
   <img class="WebLogo011" style="width: 357px; height: 48px; left: 0px; top: 28px; position: absolute" src="https://via.placeholder.com/357x48" />
 </div>
-
+```
 code2:
 
 <img class="PurpleYellowNeonModernMusicEventInstagramStory11" style="width: 360px; height: 640px" src="https://via.placeholder.com/360x640" />
@@ -63,7 +63,7 @@ code4:
   <img class="OrangeAndBrownHoliFestivalInstagramPost1" style="width: 395px; height: 640px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/395x640" />
   <img class="WebLogo012" style="width: 357px; height: 48px; left: 18px; top: 18px; position: absolute" src="https://via.placeholder.com/357x48" />
 </div>
-
+```
 ## OUTPUT:
 ![Alt text](<Screenshot 2024-05-13 215631.png>)
 
